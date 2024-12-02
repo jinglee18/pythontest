@@ -31,21 +31,14 @@ Follow these steps to set up and run the Sales Aggregation Script:
    ```
 
 ## Output
-After execution, an Excel file named aggregated_sales.xlsx will be generated in the script directory.
-This file contains two sheets:
-Sales by Region
-Sales by Product Category
-
-
-## Output
 
 After running the script, an Excel file named **`aggregated_sales.xlsx`** will be generated in the project directory. This file contains two sheets:
 
-### 1. **Sales by Region**
-   This sheet provides aggregated sales data grouped by store region.
+1. **Sales by Region**
+This sheet provides aggregated sales data grouped by store region.
 
-### 2. **Sales by Product Category**
-   This sheet provides aggregated sales data grouped by product category.
+2. **Sales by Product Category**
+This sheet provides aggregated sales data grouped by product category.
 
 ## File Structure
    - **aggregated_sales.xlsx**
