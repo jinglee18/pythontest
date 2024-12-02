@@ -26,8 +26,8 @@ Follow these steps to set up and run the Sales Aggregation Script:
 ### **Clone the Repository**
    Open your terminal or command prompt, then run:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository 
+   git clone https://github.com/jinglee18/pythontest.git
+   cd pythontest
    ```
 
 ## Output
