@@ -16,8 +16,38 @@ Before you begin, ensure you have the following installed:
 Prepare the following CSV files in your project directory:
 
 1. **sales.csv**
-   ```csv
-   transaction_date,sales_qty,product_code,store_code
-   2024-01-01,120,P001,S001
-   2024-01-02,85,P002,S002
-   ...
+2. **product.csv**
+3. **store.csv**
+
+## Setup Instructions
+
+Follow these steps to set up and run the Sales Aggregation Script:
+
+### **Clone the Repository**
+   Open your terminal or command prompt, then run:
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
+
+## Output
+After execution, an Excel file named aggregated_sales.xlsx will be generated in the script directory.
+This file contains two sheets:
+Sales by Region
+Sales by Product Category
+
+
+## Output
+
+After running the script, an Excel file named **`aggregated_sales.xlsx`** will be generated in the project directory. This file contains two sheets:
+
+### 1. **Sales by Region**
+   This sheet provides aggregated sales data grouped by store region.
+
+### 2. **Sales by Product Category**
+   This sheet provides aggregated sales data grouped by product category.
+
+## File Structure
+   - **aggregated_sales.xlsx**
+     - **Sheet 1:** Sales by Region
+     - **Sheet 2:** Sales by Product Category
+
