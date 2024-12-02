@@ -27,7 +27,8 @@ Follow these steps to set up and run the Sales Aggregation Script:
    Open your terminal or command prompt, then run:
    ```bash
    git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   cd your-repository 
+   ```
 
 ## Output
 After execution, an Excel file named aggregated_sales.xlsx will be generated in the script directory.
